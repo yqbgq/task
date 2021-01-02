@@ -1,0 +1,32 @@
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '45'), ('div', '1')]
+above acc 68.66%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '21'), ('div', '1')]
+above acc 69.80%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '23'), ('div', '1')]
+above acc 70.37%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '24'), ('div', '1')]
+above acc 70.66%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '29'), ('div', '1')]
+above acc 71.23%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '33'), ('div', '1')]
+above acc 71.51%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '40'), ('div', '1')]
+above acc 72.08%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '60'), ('div', '1')]
+above acc 72.65%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '110'), ('div', '1')]
+above acc 72.93%, clf num :2
+
+
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '20'), ('c', '112'), ('div', '1')]
+above acc 69.80%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '40'), ('c', '21'), ('div', '1')]
+above acc 70.66%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '40'), ('c', '22'), ('div', '1')]
+above acc 71.23%, clf num :2
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '40'), ('c', '30'), ('div', '1')]
+above acc 71.79%, clf num :2
+
+
+[('scale_x', '0.26'), ('scale_y', '0.26'), ('color_x', '0.16'), ('color_y', '0.16'), ('histogram', 'True'), ('simple_color', 'True'), ('sift', 'False'), ('sobel', 'True'), ('degree', '3'), ('coef0', '40'), ('c', '71'), ('div', '1')]
+above acc 70.37%, clf num :2
